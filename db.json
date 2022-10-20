@@ -149,5 +149,14 @@
         "quantity": 2,
         "id": 10
       }
+    ],
+    "admin": [
+      {
+        "username": "sandhya",
+        "useremail": "admin@gmail.com",
+        "password": "admin@123",
+        "mobile": "9675843223",
+        "id": 1
+      }
     ]
   }
